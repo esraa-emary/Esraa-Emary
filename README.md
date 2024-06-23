@@ -1,15 +1,4 @@
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Task 4</title>
-  <link rel="stylesheet" href="Task 4.css">
-</head>
-<body>
-  
   <h1 align="center">Hi 👋, I'm Esraa Emary</h1>
   
   
@@ -44,5 +33,3 @@
   <br><br>
   <center><img width="80%" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="">
   </center>
-</body>
-</html>
