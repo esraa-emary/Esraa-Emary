@@ -1,4 +1,39 @@
-<style>
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 4</title>
+  <link rel="stylesheet" href="Task 4.css">
+</head>
+<body>
+  <nav class="nav-bar">
+    <h3 id="logo">Site Name</h3>
+    <a href="#">page</a>
+    <a href="#">page</a>
+    <a href="#">page</a>
+    <button >button</button >
+  </nav>
+  <div class="title">
+    <h1>Article or post title</h1>
+    <p>Subheading that sets up context, shares more info about the author,<br>
+       or generally gets people psyched to keep reading</p>
+  </div>
+  <img src="" alt="">
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 4</title>
+  <link rel="stylesheet" href="Task 4.css">
+</head>
+<body>
+  <style>
     .tt{
       display: flex;
       justify-content: flex-end;
@@ -44,3 +79,5 @@
   <br><br>
   <center><img width="100%" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="">
   </center>
+</body>
+</html>
