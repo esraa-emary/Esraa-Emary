@@ -6,7 +6,7 @@
   
   --> I’m currently student at FCAI-CU.<br>
   
-  --> I’m looking for being a good software engineer.
+  --> I’m looking for being a Professional software engineer.
   <br><br><br>
   <h3 align="left">Connect With Me:</h3><br>
   
