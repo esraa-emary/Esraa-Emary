@@ -5,7 +5,7 @@
 
 - I’m currently student at **FCAI-CU**
 
-- I’m looking to be a **good software engineer**
+- I’m looking for being a **good software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
