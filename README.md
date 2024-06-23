@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Esraa</h1>
-img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/fast-green-stream-coding-kjuq7exuta2jv16v.html"
+img align="right" alt="Coding" width="400" src="[https://gifdb.com/gif/fast-green-stream-coding-kjuq7exuta2jv16v.html](https://gifs.com/gif/binary-code-background-YE6OJA)"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraa-emary&label=Profile%20views&color=0e75b6&style=flat" alt="esraa-emary" /> </p>
