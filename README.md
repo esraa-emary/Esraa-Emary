@@ -12,8 +12,8 @@
   
   <p align="left">
   <a href="https://codepen.io/esraa-emary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="esraa-emary" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/esraa emary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa emary" height="30" width="40" /></a>
-  <a href="https://fb.com/esraa emary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="esraa emary" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/esraa-emary-b372b8303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa emary" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/esraa.ana.9231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="esraa emary" height="30" width="40" /></a>
   <a href="https://instagram.com/esraa_emary_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esraa_emary_" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/esraa_emary_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="esraa_emary_" height="30" width="40" /></a>
   </p>
